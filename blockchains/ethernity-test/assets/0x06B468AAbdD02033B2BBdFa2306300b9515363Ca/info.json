@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.circle.com",
+  "explorer": "https://testnet.ernscan.io/token/0x06B468AAbdD02033B2BBdFa2306300b9515363Ca",
+  "status": "active",
+  "id": "0x06B468AAbdD02033B2BBdFa2306300b9515363Ca"
+}

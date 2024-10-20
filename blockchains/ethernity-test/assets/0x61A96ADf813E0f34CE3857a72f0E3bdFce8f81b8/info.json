@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped ERN",
+  "symbol": "WERN",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.ethernity.io",
+  "explorer": "https://testnet.ernscan.io/token/0x61A96ADf813E0f34CE3857a72f0E3bdFce8f81b8",
+  "status": "active",
+  "id": "0x61A96ADf813E0f34CE3857a72f0E3bdFce8f81b8"
+}

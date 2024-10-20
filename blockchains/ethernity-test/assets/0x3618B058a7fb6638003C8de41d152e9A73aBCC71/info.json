@@ -1,0 +1,11 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "https://www.tether.to",
+  "explorer": "https://testnet.ernscan.io/token/0x3618B058a7fb6638003C8de41d152e9A73aBCC71",
+  "status": "active",
+  "id": "0x3618B058a7fb6638003C8de41d152e9A73aBCC71"
+}
