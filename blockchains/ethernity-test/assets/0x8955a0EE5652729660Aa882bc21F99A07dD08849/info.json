@@ -1,0 +1,11 @@
+{
+  "name": "Aetherswap",
+  "symbol": "AET",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.aetherswap.org",
+  "explorer": "https://testnet.ernscan.io/token/0x8955a0EE5652729660Aa882bc21F99A07dD08849",
+  "status": "active",
+  "id": "0x8955a0EE5652729660Aa882bc21F99A07dD08849"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Test ERN",
+  "symbol": "ERN",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.ethernity.io",
+  "explorer": "https://testnet.ernscan.io/token/0x58a192900Db8b3d74e47C556258bf90bEE7424dc",
+  "status": "active",
+  "id": "0x58a192900Db8b3d74e47C556258bf90bEE7424dc"
+}

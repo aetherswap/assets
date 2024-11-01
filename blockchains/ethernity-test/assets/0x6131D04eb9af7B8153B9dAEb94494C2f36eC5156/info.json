@@ -1,0 +1,11 @@
+{
+  "name": "NebulaSpace",
+  "symbol": "NEBULA",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.aetherswap.org",
+  "explorer": "https://testnet.ernscan.io/token/0x6131D04eb9af7B8153B9dAEb94494C2f36eC5156",
+  "status": "active",
+  "id": "0x6131D04eb9af7B8153B9dAEb94494C2f36eC5156"
+}
